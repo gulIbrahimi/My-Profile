@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gul Amiz Ibrahimi</h1>
-<h3 align="center">A passionate full stack developer from Afghanistan.</h3>
+<h3 align="center">A passionate full stack developer in Mount Holyoke College.</h3>
 
 - 🔭 I’m currently working on **Real-Time Application**
 
