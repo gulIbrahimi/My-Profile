@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **my data visualization progress tracking project.**
 
-- 👨‍💻 All of my projects are available at [file:///Users/gulamizibrahimi/Documents/Portfolio%20Website/index.html](file:///Users/gulamizibrahimi/Documents/Portfolio%20Website/index.html)
-
+- 👨‍💻 All of my projects are available at [www.gulibrahimi.com (https://gulibrahimi.com/)](https://gulibrahimi.com/)
+  
 - 💬 Ask me about **Python, C, and Java.**
 
-- 📫 How to reach me **ibrah23g@mtholyoke.edu**
+- 📫 How to reach me **[ibrah23g@mtholyoke.edu](https://www.linkedin.com/in/flora-i-3340a3254/)**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1WJeJ7TH7Ai0tXj8BA_epNAEuaD7NOYrR0nc_gus5pSc/edit?usp=sharing](https://docs.google.com/document/d/1WJeJ7TH7Ai0tXj8BA_epNAEuaD7NOYrR0nc_gus5pSc/edit?usp=sharing)
 
