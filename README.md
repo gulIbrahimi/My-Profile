@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gul Amiz Ibrahimi</h1>
-<h3 align="center">A passionate full stack developer in Mount Holyoke College.</h3>
+<h1 align="center">Hi, I'm Gul Amiz Ibrahimi</h1>
+<h3 align="center">A full stack developer at Mount Holyoke College.</h3>
 
 - 🔭 I’m currently working on **Real-Time Application**
 
@@ -7,17 +7,15 @@
 
 - 👯 I’m looking to collaborate on **more AI related projects**
 
-- 🤝 I’m looking for help with **my data visualization progress tracking project.**
+- 🤝 I’m looking for help with **my machine learning project.**
 
 - 👨‍💻 All of my projects are available at [(https://gulibrahimi.com/)](https://gulibrahimi.com/)
   
-- 💬 Ask me about **Python, C, and Java.**
+- 💬 Ask me about **Python, C, Java, and AI.**
 
-- 📫 How to reach me **(https://www.linkedin.com/in/flora-i-3340a3254/)**
+- 📫 How to reach me **(https://www.linkedin.com/in/flora-ibrahimi-3340a3254/)**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WJeJ7TH7Ai0tXj8BA_epNAEuaD7NOYrR0nc_gus5pSc/edit?usp=sharing](https://docs.google.com/document/d/1WJeJ7TH7Ai0tXj8BA_epNAEuaD7NOYrR0nc_gus5pSc/edit?usp=sharing)
-
-- ⚡ Fun fact **I think I can read minds.**
+- ⚡ Fun fact **I think I can read minds and a bit of CPUs to be honest.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
